@@ -2,7 +2,7 @@
 #include <iostream>
 
    #define move_h
-   #if defined (ARDUINO) && ARDUINO >= 100
+   #if defined (ARDUINO)
 		#include <Arduino.h>
    #else
    #endif
