@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Move
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Move	KEYWORD1	
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+forward   KEYWORD2
+backward   KEYWORD2
+left   KEYWORD2
+right   KEYWORD2
+slight_left   KEYWORD2
+slight_right   KEYWORD2
+stop   KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
